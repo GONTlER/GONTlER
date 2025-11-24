@@ -45,30 +45,59 @@ $\color{#000000}{\textsf{he/it or any nh}}$<br>
     </br>
   <div align="center">
   <details>
-        <summary> <td>$${\color{#000000}\verb|RENTRIES ♡|}$$</td></summary>
+        <summary> <td>$${\color{#000000}\verb|LINKS ♡|}$$</td></summary>
 <a href="https://rentry.co/spawnbotanist">
   main</a>
   <a href="https://rentry.co/moldyrabbit">
   hoard</a>
   <a href="https://rentry.co/topgunz">
   directory</a>
-  <a href="https://rentry.co/UMAMU5UME">
-  umamusume</a>
-  <a href="https://rentry.co/ALlENATION">
-  1x1x1x1</a>
-  <a href="https://rentry.co/APOLOGlES">
-  c00lkidd</a>
-  
-  </details>
-   <details>
-        <summary> <td>$${\color{#FFFFFF}\verb|ETC LINKS ♡|}$$</td></summary>
   <a href="https://x.com/@plagiarizedd">
   twt</a>
   <a href="https://pluralkit.xyz/f/UCPWKB">
   pk front</a>
   <a href="https://toyhou.se/fluorosulfonic/art">
   toyhouse</a>
-     
+  
+  </details>
+   <details>
+        <summary> <td>$${\color{#FFFFFF}\verb|FRIENDS ♡|}$$</td></summary>
+  <a href="https://github.com/K0SK3Y">
+  sampo</a>
+  <a href="https://github.com/heartofhope">
+  julie</a>
+  <a href="https://github.com/brighterjune">
+  rye</a>
+  <a href="https://github.com/N1L0U">
+  nilou</a>
+  <a href="https://github.com/KALININGRAD-OBLAST">
+  archive</a>
+  <a href="https://github.com/cyreneirl">
+  cyrene</a>
+  <a href="https://github.com/yookiso">
+  yoko</a>
+  <a href="https://github.com/Acesteroid">
+  ace</a>
+  <a href="https://github.com/jellykatss">
+  kat</a>
+  <a href="https://github.com/YourrRemedy">
+  vani</a>
+  <a href="https://github.com/PanophobiaVxmp">
+  akio</a>
+  <a href="https://github.com/beer-enjoyer">
+  frog</a>
+  <a href="https://github.com/WalkingTW">
+  psy</a>
+  <a href="https://github.com/juiicyfruitcake">
+  leon</a>
+  <a href="https://github.com/nyanyamii">
+  eclipse</a>
+  <a href="https://github.com/Cannibalistic-Ways-Of-Life">
+  vemo</a>
+  <a href="https://github.com/Michael-Afton1983">
+  judas</a>
+     <br>ask 2 be removed !<br>i add almost every1<br>who i sit/talk with !</br>
+  
   </details>
 <br>
   </br>
