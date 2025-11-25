@@ -96,7 +96,7 @@ $\color{#000000}{\textsf{he/it or any nh}}$<br>
   vemo</a>
   <a href="https://github.com/Michael-Afton1983">
   judas</a>
-     <br>ask 2 be removed !<br>i add almost every1<br>who i sit/talk with !</br>
+     <br>ask 2 be removed !<br>i add almost every1 i feel comfy with !</br>
   
   </details>
 <br>
