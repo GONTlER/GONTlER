@@ -38,9 +38,9 @@ $\color{#000000}{\textsf{he/it or any nh}}$<br>
   </div><p align="center">$\color{#insert hex code}{\textsf{EXTRA}}$<br>
   <hr>
 <p align="center">
-  <kbd> $\color{#FFFFFF}{\textsf{taken x2 ♡}}$<br>
+  <kbd> $\color{#FFFFFF}{\textsf{♡ . taken . ♡}}$<br>
   <br>
-  $\color{#000000}{\textsf{6/20 . 1/10}}$<br></kbd>
+  $\color{#000000}{\textsf{6/20/2022}}$<br></kbd>
   <br>
     </br>
   <div align="center">
