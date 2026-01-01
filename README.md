@@ -73,7 +73,7 @@ $\color{#000000}{\textsf{he/it or any nh}}$<br>
   <a href="https://github.com/KALININGRAD-OBLAST">
   archive</a>
   <a href="https://github.com/cyreneirl">
-  cyrene</a>
+  cyrie</a>
   <a href="https://github.com/yookiso">
   yoko</a>
   <a href="https://github.com/Acesteroid">
@@ -86,16 +86,14 @@ $\color{#000000}{\textsf{he/it or any nh}}$<br>
   frog</a>
   <a href="https://github.com/WalkingTW">
   psy</a>
-  <a href="https://github.com/juiicyfruitcake">
+  <a href="https://github.com/DEMOLlTlONLOVERS">
   leon</a>
   <a href="https://github.com/nyanyamii">
   sora</a>
-  <a href="https://github.com/Cannibalistic-Ways-Of-Life">
-  vemo</a>
-  <a href="https://github.com/Michael-Afton1983">
-  judas</a>
   <a href="https://github.com/tszaelria">
   ria</a>
+  <a href="https://github.com/deIiverer">
+  kev</a>
      <br>ask 2 be removed !<br>i add almost every1 i feel comfy with !</br>
   
   </details>
