@@ -64,9 +64,7 @@ $\color{#000000}{\textsf{he/it or any nh}}$<br>
         <summary> <td>$${\color{#FFFFFF}\verb|FRIENDS ♡|}$$</td></summary>
   <a href="https://github.com/K0SK3Y">
   sampo</a>
-  <a href="https://github.com/heartofhope">
-  julie</a>
-  <a href="https://github.com/brighterjune">
+  <a href="https://github.com/solvvent">
   rye</a>
   <a href="https://github.com/N1L0U">
   nilou</a>
@@ -82,18 +80,18 @@ $\color{#000000}{\textsf{he/it or any nh}}$<br>
   vani</a>
   <a href="https://github.com/PanophobiaVxmp">
   akio</a>
-  <a href="https://github.com/beer-enjoyer">
-  frog</a>
   <a href="https://github.com/WalkingTW">
   psy</a>
-  <a href="https://github.com/DEMOLlTlONLOVERS">
+  <a href="https://github.com/harringrove">
   leon</a>
-  <a href="https://github.com/nyanyamii">
-  sora</a>
   <a href="https://github.com/tszaelria">
   ria</a>
   <a href="https://github.com/deIiverer">
   kev</a>
+  <a href="https://github.com/aesdrew">
+  aesop</a>
+  <a href="https://github.com/DirectorWifies">
+  wifies</a>
      <br>ask 2 be removed !<br>i add almost every1 i feel comfy with !</br>
   
   </details>
