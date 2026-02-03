@@ -64,14 +64,16 @@ $\color{#000000}{\textsf{he/it or any nh}}$<br>
         <summary> <td>$${\color{#FFFFFF}\verb|FRIENDS ♡|}$$</td></summary>
   <a href="https://github.com/K0SK3Y">
   sampo</a>
+  <a href="https://github.com/cyreneirl">
+  cyrie</a>
   <a href="https://github.com/solvvent">
   rye</a>
   <a href="https://github.com/N1L0U">
   nilou</a>
   <a href="https://github.com/KALININGRAD-OBLAST">
   archive</a>
-  <a href="https://github.com/cyreneirl">
-  cyrie</a>
+  <a href="https://github.com/jellykatss">
+  kat</a>
   <a href="https://github.com/yookiso">
   yoko</a>
   <a href="https://github.com/Acesteroid">
